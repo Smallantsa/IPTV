@@ -4,7 +4,7 @@ http://php.jdshipin.com:8880/1905.php?id=1905dy2
 #EXTINF:-1 tvg-id="A01" tvg-name="1905国内电影" tvg-logo="https://epg.112114.xyz/logo/1905.png" group-title="电影",1905国内电影
 http://php.jdshipin.com:8880/1905.php?id=1905dy
 #EXTINF:-1 tvg-id="A01" tvg-name="精彩影视" tvg-logo="https://upload.112114.xyz/logo/JCYS.png" group-title="电影",精彩影视
-http://php.jdshipin.com:8880/1905.php?id=1905dy
+http://110.157.221.115:8088/udp/238.125.5.110:5140
 #EXTINF:-1 tvg-id="A01" tvg-name="重温经典" tvg-logo="https://upload.112114.xyz/logo/CWJD.png" group-title="电影",重温经典
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 #EXTINF:-1 tvg-id="A01" tvg-name="睛彩篮球" tvg-logo="https://upload.112114.xyz/logo/JCLQ.png" group-title="港澳台",睛彩篮球
