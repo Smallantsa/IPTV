@@ -1,33 +1,33 @@
 #EXTM3U x-tvg-url="https://gh.tryxd.cn/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml"
 #EXTINF:-1 tvg-id="A01" tvg-name="1905国外电影" tvg-logo="https://epg.112114.xyz/logo/1905.png" group-title="电影",1905国外电影
 http://php.jdshipin.com:8880/1905.php?id=1905dy2
-#EXTINF:-1 tvg-id="A01" tvg-name="1905国内电影" tvg-logo="https://epg.112114.xyz/logo/1905.png" group-title=" 电影",1905国内电影
+#EXTINF:-1 tvg-id="A01" tvg-name="1905国内电影" tvg-logo="https://epg.112114.xyz/logo/1905.png" group-title="电影",1905国内电影
 http://php.jdshipin.com:8880/1905.php?id=1905dy
-#EXTINF:-1 tvg-id="A01" tvg-name="精彩影视" tvg-logo="https://upload.112114.xyz/logo/JCYS.png" group-title=" 电影",精彩影视
+#EXTINF:-1 tvg-id="A01" tvg-name="精彩影视" tvg-logo="https://upload.112114.xyz/logo/JCYS.png" group-title="电影",精彩影视
 http://php.jdshipin.com:8880/1905.php?id=1905dy
-#EXTINF:-1 tvg-id="A01" tvg-name="重温经典" tvg-logo="https://upload.112114.xyz/logo/CWJD.png" group-title=" 电影",重温经典
+#EXTINF:-1 tvg-id="A01" tvg-name="重温经典" tvg-logo="https://upload.112114.xyz/logo/CWJD.png" group-title="电影",重温经典
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
-#EXTINF:-1 tvg-id="A01" tvg-name="睛彩篮球" tvg-logo="https://upload.112114.xyz/logo/JCLQ.png" group-title=" 港澳台",睛彩篮球
+#EXTINF:-1 tvg-id="A01" tvg-name="睛彩篮球" tvg-logo="https://upload.112114.xyz/logo/JCLQ.png" group-title="港澳台",睛彩篮球
 http://59.57.148.94:35455/itv/2000000003000000065.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-id="A01" tvg-name="凤凰卫视" tvg-logo="https://upload.112114.xyz/logo/凤凰卫视.png" group-title=" 港澳台",凤凰卫视
+#EXTINF:-1 tvg-id="A01" tvg-name="凤凰卫视" tvg-logo="https://upload.112114.xyz/logo/凤凰卫视.png" group-title="港澳台",凤凰卫视
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 tvg-id="A01" tvg-name="凤凰资讯" tvg-logo="https://upload.112114.xyz/logo/FHZX.png" group-title=" 港澳台",凤凰资讯
+#EXTINF:-1 tvg-id="A01" tvg-name="凤凰资讯" tvg-logo="https://upload.112114.xyz/logo/FHZX.png" group-title="港澳台",凤凰资讯
 http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
-#EXTINF:-1 tvg-id="A01" tvg-name="HOY77" tvg-logo="https://upload.112114.xyz/logo/HOY77.png" group-title=" 港澳台",HOY77
+#EXTINF:-1 tvg-id="A01" tvg-name="HOY77" tvg-logo="https://upload.112114.xyz/logo/HOY77.png" group-title="港澳台",HOY77
 http://cdn5.1678520.xyz/live/?id=hoy
-#EXTINF:-1 tvg-id="A01" tvg-name="TVBPlus" tvg-logo="https://upload.112114.xyz/logo/tvbplus.png" group-title=" 港澳台",TVBPlus
+#EXTINF:-1 tvg-id="A01" tvg-name="TVBPlus" tvg-logo="https://upload.112114.xyz/logo/tvbplus.png" group-title="港澳台",TVBPlus
 http://cdn.163189.xyz/live/?id=tvbp
-#EXTINF:-1 tvg-id="A01" tvg-name="TVBJ1" tvg-logo="https://upload.112114.xyz/logo/TVBJ1.png" group-title=" 港澳台",TVBJ1
+#EXTINF:-1 tvg-id="A01" tvg-name="TVBJ1" tvg-logo="https://upload.112114.xyz/logo/TVBJ1.png" group-title="港澳台",TVBJ1
 http://cdn3.163189.xyz/live/j1/stream.m3u8
-#EXTINF:-1 tvg-id="A01" tvg-name="凤凰卫视" tvg-logo="https://upload.112114.xyz/logo/凤凰卫视.png" group-title=" 港澳台",凤凰卫视
+#EXTINF:-1 tvg-id="A01" tvg-name="凤凰卫视" tvg-logo="https://upload.112114.xyz/logo/凤凰卫视.png" group-title="港澳台",凤凰卫视
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 tvg-id="A01" tvg-name="TVB功夫台" tvg-logo="https://upload.112114.xyz/logo/TVB%E5%8A%9F%E5%A4%AB%E5%8F%B0.png" group-title=" 港澳台",TVB功夫台
+#EXTINF:-1 tvg-id="A01" tvg-name="TVB功夫台" tvg-logo="https://upload.112114.xyz/logo/TVB%E5%8A%9F%E5%A4%AB%E5%8F%B0.png" group-title="港澳台",TVB功夫台
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-#EXTINF:-1 tvg-id="A01" tvg-name="TVB翡翠台" tvg-logo="https://upload.112114.xyz/logo/TVB%E7%BF%A1%E7%BF%A0-LIGHT.png" group-title=" 港澳台",TVB翡翠台
+#EXTINF:-1 tvg-id="A01" tvg-name="TVB翡翠台" tvg-logo="https://upload.112114.xyz/logo/TVB%E7%BF%A1%E7%BF%A0-LIGHT.png" group-title="港澳台",TVB翡翠台
 http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
-#EXTINF:-1 tvg-id="A01" tvg-name="TVB无线新闻台" tvg-logo="https://upload.112114.xyz/logo/TVB%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png" group-title=" 港澳台",TVB无线新闻台
+#EXTINF:-1 tvg-id="A01" tvg-name="TVB无线新闻台" tvg-logo="https://upload.112114.xyz/logo/TVB%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB.png" group-title="港澳台",TVB无线新闻台
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-#EXTINF:-1 tvg-id="A01" tvg-name="TVB娱乐新闻" tvg-logo="https://upload.112114.xyz/logo/TVB%E5%A8%9B%E6%A8%82%E6%96%B0%E8%81%9E%E5%8F%B0%281%29.png" group-title=" 港澳台",TVB娱乐新闻
+#EXTINF:-1 tvg-id="A01" tvg-name="TVB娱乐新闻" tvg-logo="https://upload.112114.xyz/logo/TVB%E5%A8%9B%E6%A8%82%E6%96%B0%E8%81%9E%E5%8F%B0%281%29.png" group-title="港澳台",TVB娱乐新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-#EXTINF:-1 tvg-id="A01" tvg-name="TVB千禧经典" tvg-logo="https://upload.112114.xyz/logo/TVB%E5%8D%83%E7%A6%A7%E7%B6%93%E5%85%B8%E5%8F%B0.png" group-title=" 港澳台",TVB千禧经典
+#EXTINF:-1 tvg-id="A01" tvg-name="TVB千禧经典" tvg-logo="https://upload.112114.xyz/logo/TVB%E5%8D%83%E7%A6%A7%E7%B6%93%E5%85%B8%E5%8F%B0.png" group-title="港澳台",TVB千禧经典
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
