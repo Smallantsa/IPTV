@@ -11,6 +11,8 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 http://59.57.148.94:35455/itv/2000000003000000065.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-id="A01" tvg-name="凤凰卫视" tvg-logo="https://upload.112114.xyz/logo/凤凰卫视.png" group-title=" 港澳台",凤凰卫视
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-id="A01" tvg-name="凤凰资讯" tvg-logo="https://upload.112114.xyz/logo/FHZX.png" group-title=" 港澳台",凤凰资讯
+http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
 #EXTINF:-1 tvg-id="A01" tvg-name="HOY77" tvg-logo="https://upload.112114.xyz/logo/HOY77.png" group-title=" 港澳台",HOY77
 http://cdn5.1678520.xyz/live/?id=hoy
 #EXTINF:-1 tvg-id="A01" tvg-name="TVBPlus" tvg-logo="https://upload.112114.xyz/logo/tvbplus.png" group-title=" 港澳台",TVBPlus
