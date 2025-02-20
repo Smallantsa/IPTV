@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://gh.tryxd.cn/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml"
 #EXTINF:-1 tvg-id="A01" tvg-name="1905国外电影" tvg-logo="https://upload.112114.xyz/logo/M1905.png" group-title="电影",1905国外电影
-http://php.jdshipin.com:8880/1905.php?id=1905dy2
+http://cdn.jdshipin.com:8880/1905ts.php?id=1905b
 #EXTINF:-1 tvg-id="A01" tvg-name="1905国内电影" tvg-logo="https://upload.112114.xyz/logo/M1905%E7%94%B5%E5%BD%B1%E7%BD%91.png" group-title="电影",1905国内电影
 http://php.jdshipin.com:8880/1905.php?id=1905dy
 #EXTINF:-1 tvg-id="A01" tvg-name="精彩影视" tvg-logo="https://upload.112114.xyz/logo/JCYS.png" group-title="电影",精彩影视
@@ -9,10 +9,34 @@ http://110.157.221.115:8088/udp/238.125.5.110:5140
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 #EXTINF:-1 tvg-id="A01" tvg-name="动作影院" tvg-logo="https://mcsppic.5g.wasu.tv/cms/cms_images/1000101/202407/03/d878ed9e-bc42-4681-80be-353f793016ef.png" group-title="电影",动作影院
 http://144.52.162.152:9901/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="A01" tvg-name="睛彩篮球" tvg-logo="https://upload.112114.xyz/logo/JCLQ.png" group-title="港澳台",睛彩篮球
-http://59.57.148.94:35455/itv/2000000003000000065.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-id="A01" tvg-name="凤凰卫视" tvg-logo="https://upload.112114.xyz/logo/凤凰卫视.png" group-title="港澳台",凤凰卫视
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-id="A01" tvg-name="睛彩篮球" tvg-logo="https://upload.112114.xyz/logo/JCLQ.png" group-title="睛彩频道",睛彩篮球
+http://xiaoya.crccxw.top:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-id="A01" tvg-name="睛彩竞技" tvg-logo="https://upload.112114.xyz/logo/JCJJ.png" group-title="睛彩频道",睛彩竞技
+http://xiaoya.crccxw.top:35455/itv/2000000003000000060.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-id="A01" tvg-name="睛彩青少" tvg-logo="https://upload.112114.xyz/logo/JCJJ.png" group-title="睛彩频道",睛彩青少
+http://xiaoya.crccxw.top:35455/itv/2000000003000000068.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-id="A01" tvg-name="睛彩广场舞" tvg-logo="https://upload.112114.xyz/logo/JCGCW.png" group-title="睛彩频道",睛彩广场舞
+http://xiaoya.crccxw.top:35455/itv/2000000003000000062.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-id="A01" tvg-name="黑莓电影" tvg-logo="https://upload.112114.xyz/logo/HMDY.png" group-title="NewTV频道",黑莓电影
+http://xiaoya.crccxw.top:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-id="A01" tvg-name="动漫秀场" tvg-logo="https://upload.112114.xyz/logo/dmxc.png" group-title="SiTV频道",动漫秀场
+http://xiaoya.crccxw.top:35455/itv/5000000011000031113.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="A01" tvg-name="都市剧场" tvg-logo="https://upload.112114.xyz/logo/dsjc1.png" group-title="SiTV频道",都市剧场
+http://xiaoya.crccxw.top:35455/itv/5000000011000031111.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="A01" tvg-name="法治天地" tvg-logo="https://upload.112114.xyz/logo/fztd.png" group-title="SiTV频道",法治天地
+http://xiaoya.crccxw.top:35455/itv/9001547084732463424.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="A01" tvg-name="欢笑剧场" tvg-logo="https://upload.112114.xyz/logo/hxjc1.png" group-title="SiTV频道",欢笑剧场
+http://xiaoya.crccxw.top:35455/itv/5000000002000009455.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="A01" tvg-name="劲爆体育" tvg-logo="https://upload.112114.xyz/logo/jbty.png" group-title="SiTV频道",劲爆体育
+http://xiaoya.crccxw.top:35455/itv/5000000002000029972.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="A01" tvg-name="金色学堂" tvg-logo="https://upload.112114.xyz/logo/SH-JSXT.png" group-title="SiTV频道",金色学堂
+http://xiaoya.crccxw.top:35455/itv/5000000010000026105.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="A01" tvg-name="乐游频道" tvg-logo="https://upload.112114.xyz/logo/LEYOU.png" group-title="SiTV频道",乐游频道
+http://xiaoya.crccxw.top:35455/itv/5000000011000031112.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="A01" tvg-name="魅力足球" tvg-logo="https://upload.112114.xyz/logo/MLZQ.png" group-title="SiTV频道",魅力足球
+http://xiaoya.crccxw.top:35455/itv/5000000011000031207.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="A01" tvg-name="生活时尚" tvg-logo="https://upload.112114.xyz/logo/SHSS.png" group-title="SiTV频道",生活时尚
+http://xiaoya.crccxw.top:35455/itv/5000000002000019634.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="A01" tvg-name="凤凰资讯" tvg-logo="https://upload.112114.xyz/logo/FHZX.png" group-title="港澳台",凤凰资讯
 http://cdn5.1678520.xyz/live/live2.1.php?id=fhzx
 #EXTINF:-1 tvg-id="A01" tvg-name="HOY77" tvg-logo="https://upload.112114.xyz/logo/HOY77.png" group-title="港澳台",HOY77
